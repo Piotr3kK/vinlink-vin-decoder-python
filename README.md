@@ -1,6 +1,6 @@
 # Online VIN decoder - python client
 
-This is an example of python client for VinLink online decoder.
+This is an example of python client for VinLink - online VIN decoder.
 
 You need to create an account at www.vinlink.com
 
